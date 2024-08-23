@@ -1,0 +1,12 @@
+      Espresso|              Coffee|                         Strong, black coffee|       2.5|
+    Cappuccino|              Coffee|          Espresso with steamed milk and foam|      3.75|
+         Latte|              Coffee|                   Espresso with steamed milk|       3.5|
+         Mocha|              Coffee|     Espresso with chocolate and steamed milk|         4|
+     Macchiato|              Coffee|               Espresso with a dollop of foam|         3|
+     Americano|              Coffee|                      Espresso with hot water|      2.75|
+    Chai Latte|                 Tea|                 Spiced tea with steamed milk|      3.25|
+     Green Tea|                 Tea|             Refreshing and healthy green tea|      2.25|
+    Herbal Tea|                 Tea|                Caffeine-free herbal infusion|       2.5|
+ Hot Chocolate|            Beverage|             Rich chocolate with steamed milk|         3|
+   Iced Coffee|       Cold Beverage|                      Chilled coffee with ice|         3|
+      Iced Tea|       Cold Beverage|                         Chilled tea with ice|       2.5|
